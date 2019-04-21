@@ -1,0 +1,10 @@
+header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: yellow
+
+}
+header a{
+    padding:0px 20px
+}
